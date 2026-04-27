@@ -45,4 +45,4 @@ A real-time women safety platform designed to provide instant emergency assistan
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/women-safety-platform.git
+git clone https://github.com/Priyanshumishra2601/womenSafetyCommunityPlatfrom.git
